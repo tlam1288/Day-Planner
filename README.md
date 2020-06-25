@@ -15,4 +15,4 @@ The app takes advantage of the funtions moment.js offers. Several functions are 
 
 ## Link to the Day Scheduler
 
-![Work Day Scheduler](Assets/DayScheduler.PNG);
+![Work Day Scheduler](Assets/images/screenshot.png);
